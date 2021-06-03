@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to J.C. Esq., upon Mr. Toland's book</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09396</idno><idno type="EEBO-CITATION">62369432</idno>
+  <idno type="VID">187989</idno>
+  <idno type="EEBO-PROQUEST">2240866097</idno>
+  
+            <idno type="STC">Wing L1708</idno>
+            <idno type="STC">ESTC R179585</idno>
+            <idno type="OCLC">62369432</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187989)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to J.C. Esq., upon Mr. Toland's book</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Printed in the year 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Toland, John, 1670-1722. --  Christianity not mysterious; or, A treatise shewing, that there is nothing in the gospel contrary to reason.</term>
+               <term type="topical_term">Rationalism.</term>
+               <term type="topical_term">Deism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187989:1"/>
+            <head>A LETTER To J. C. Esq; <hi>Vpon Mr. Toland's Book.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WIthout further Preamble, I shall take occasion from what passed at the Committee of Religion the other night, to give you my Thoughts upon the Book of <hi>John Toland</hi>'s; which indeed I never saw, till upon hearing it there spoken of, I procured it. I have since perused it with some Attention, but have not met with any of those learned Answers which, as is said, have been given to it; so that I shall only give you my naked thoughts, without any dress of Scholasti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k terms: for I skill not the heavy weapons taken out of the Armory of the Fa<g ref="char:EOLhyphen"/>thers;<note place="margin">Eph. 6.17.</note> I pretend not to combat with any other weapon than <hi>the Sword of the Spi<g ref="char:EOLhyphen"/>rit, which is the Word of God.</hi> By That <hi>Luther</hi> overcame all his Antagonists, and by That, a greater than he, overcame the strong man arm'd,<note place="margin">Mat. 4.4, 7.10.</note> even <hi>Belzebub</hi> him<g ref="char:EOLhyphen"/>self; a <hi>Scriptum est</hi> to every temptation soon chased away the Tempter.</p>
+            <p>I must confess it is somewhat difficult to go about this matter, for the Adver<g ref="char:EOLhyphen"/>sary allows but a supposed Authority in the New Testament; so that when he pleases to take away, or deny his Hypothesis, all my Arguments must of course fall to the ground. He will allow nothing but the blurr'd Book of Reason, which in every man is different, according to their natural Capacity, Constitution, Or<g ref="char:EOLhyphen"/>gans of Sense, or Education; tho, as to that in himself, he thinks it most perfect, able <hi>to search the hidden things of God,</hi> being <hi>vainly puffed up in his own mind.</hi>
+               <note place="margin">1 Cor. 2.10</note>
+            </p>
+            <p>First then, as to his Title, <hi>Christianity not Mysterious;</hi> if that Position be not Heresy, I know not what is. Heresy is an <hi>Erroneous belief in Fundamentals, joyn'd with a Pravity of Will;</hi> And that this is such, I shall prove. First, that it is an Erroneous belief; That Christianity is Mysterious, that we know not of it, neither in the nature of the thing, nor in degree, more than what God has been pleased to reveal to us, is most certain. Could any one comprehend before it was reveal'd, that God would send his Son our Lord <hi>Jesus Christ,</hi> to be born of a Wo<g ref="char:EOLhyphen"/>man, to redeem us, and to take upon him our flesh? Well, and now that it is reveal'd, pray how much more of that ineffable Mystery can our Reason make out to us than what is revealed? Can we by Reason explain to our selves the In<g ref="char:EOLhyphen"/>carnation of the Son of God, tho that he was inca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nate is fully revealed to us? Those words of his, <hi>John</hi> 14.20. <hi>that I am in my Father, and you in me, and I in you,</hi> fully reveal to us the Mystery of our Redemption, and of the Trinity,<note n="*" place="margin">In the O<g ref="char:EOLhyphen"/>riginal it is not</note> yet what can we add to that Revelation? But further, the Operations of the Holy Spirit in our Souls what Reason can explain or conceive, <hi>it blows where it lists,</hi> and when, and how; It is of that very thing that it is said, that <hi>it is not entred into the heart of man to conceive;</hi> which yet <hi>God has revealed to us by his Holy Spirit.</hi>
+               <note place="margin">but</note> No, every happy Soul that feels it must say, it is <hi>quod neque<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> monstrare &amp; sentio tantum.</hi>
+               <note place="margin">1 Cor. 2.9, 10.</note> I wish he himself had attended more to the Motions thereof within himse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, he had not surely then come so near to that unpardonable Offence; which proves the second part of my Definition, a pravity of Will; That this is so is manifest, for his Errors tend to make Mankind miserable;<note place="margin">Rom. 8.16. Joh. 16.13</note> For <hi>it is the Spi<g ref="char:EOLhyphen"/>rit of God that Testifies to our Spirits that we are the Sons of God:</hi> It is the <hi>Holy
+<pb facs="tcp:187989:2"/> Spirit that leads us into all Truth.</hi> If then this our Faith be vain, and that the supposed Influences and Motions of the Holy Spirit in our Souls are but Dreams and Enthusiasms, we are wretched Creatures; in the fallen Estate that we are, we had be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter never have been Born. Lo then the inveteracy of that Heart that publishes this Doctrine,<note place="margin">Eph. 2.12.</note> that leaves <hi>us without God in the World,</hi> that has wrapt him up from us, like <hi>Epicurus</hi>'s God, in dark Clouds; this is vastly enlarging <hi>Nero's</hi> cruel Wish, and cutting off the Neck of all Mankind at one blow. But fur<g ref="char:EOLhyphen"/>ther, the Pravity of his Will is manifest in this, That this Doctrine must neces<g ref="char:EOLhyphen"/>fartly produce a Pravity of Will in Others; for if we have no supernatural As<g ref="char:EOLhyphen"/>sistance nor Guide, whatever our Reason does not Reproach us for, is no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ill; (for our Natural Conscience may soon be overcome and said asleep, by wilfu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in wrought up into a Habit) and then when a Man has Debauch'd his Reason (as it is not difficult for Licentious Persons to deprave that to the highest Degree) what Wickedness is he not fit for? Indeed, Pravity of the Will is essential to He<g ref="char:EOLhyphen"/>resy. A Pious Heretick is a Contradiction. For if a Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do Er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, his Piety gives him Humility to seek for further Information, and God does alway bless his Endeavours; so that his Errors shall not be in Fundamentals; for our blessed Saviour assures us, <hi>Jo.</hi> 7.17. <hi>If any Man do my Will, he shall know of the Doctrine, whether it be of God.</hi> The good Man that fears God, that Loves him, and seeks him and his Direction by continual Prayer, cannot be left in Funda<g ref="char:EOLhyphen"/>mental Error. Such Usage would be Barbarous from a Man like our selves, and therefore we can never impute it to the God of Truth. But it is Pride that makes your Sect Master; and <hi>where Pride is, there is Contention and every Evil Work.</hi>
+            </p>
+            <p>The Conclusion in short is this, if there be no Mystery in our Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igions, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay aside your Bibles, <hi>those lively Oracles,</hi> (after you have Read the Histori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al part of them) and let Rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on only be your Guide; and since, <hi>Nihil est in Intellectu quod non fuit prius in sensu,</hi> if we must have a God it must be the Object of our Sence, a God to go before us, like <hi>Aarons, Lo these are thy Gods,</hi> and then we are come to a fine Pass with our Reason. St. <hi>Paul</hi> tells us, <hi>Rom.</hi> 1.21. That even the Philosophers among the Heathens in matters of Religion <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> became Fools by their* Reasonings, and so <hi>their foolish Hearts were Darkned,</hi> and so they fell into Idolatry the greatest of all Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly.</p>
+            <p>
+               <note place="margin">
+                  <hi>Why Rea<g ref="char:EOLhyphen"/>son ye a<g ref="char:EOLhyphen"/>mong your selves,</hi> Mat. 16.8. Mat. 9.33.</note>I shall now proceed to consider the Book; wherein, First I would take Notice of his Treatment of the Holy Scriptures. He says indeed in one place, That they have the brightest Characters of Divinity; but he has for once given them that Character, that he might with the more Impunity Stab them afterwards as of<g ref="char:EOLhyphen"/>ten as he pleases,<note place="margin">P. 33.</note> which he does not spare to do three times, with his <hi>If the Gospel be the Word of God.</hi> Just the same way does he use our Blessed Saviour the Lord <hi>Jesus Christ;</hi>
+               <note place="margin">Edit. 2d p. 25. 46. 170.</note> whom once in his Preface he calls the <hi>Lord Jesus Christ,</hi> that he may be taken the less Notice of afterward for his familiar Treatment of him.</p>
+            <p>The word <hi>Lord</hi> is the Adjunct to the Name of our Saviour <hi>Jesus Christ</hi> near 600 times in the New Testament; it is often used alone without <hi>Jesus</hi> or <hi>Christ,</hi> to denote our Saviour, as being his peculiar Title, and I shall prove it to be a Decla<g ref="char:EOLhyphen"/>ration of his Divinity.</p>
+            <p>At his Birth the Angels told the Shepherds,<note n="*" place="margin">Mat. 2.11 Luk. 24.34</note> to you is Born a <hi>Saviour,</hi> who is <hi>Christ the Lord:</hi> At his Resurrection the Disciples told each other, <hi>the Lord is Ri<g ref="char:EOLhyphen"/>sen,</hi>
+               <note place="margin">Joh. 20.25 28.</note> and they to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Thomas, We have s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en the Lord:</hi> and <hi>Thomas</hi> crys out, <hi>My Lord and my God:</hi> And when he appear'd to them as they were F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shing, they said one to another,<note place="margin">1 Cor. 12.3</note>
+               <hi>it is the Lord:</hi> The Apostle tells us, That <hi>no Man can call Jesus Lord</hi> (that is, believe him to be God) <hi>but by the Spirit of God:</hi> How often do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e find in the Apostles Writings, <hi>The Day of the Lord, our Lord Jesus,</hi> and <hi>our Lord Je<g ref="char:EOLhyphen"/>sus Christ.</hi> Nay, Let us look back into the Old Testament, and we shall find the same; That <hi>David in Spirit called him Lord,</hi> in the 110th <hi>Psalm</hi> (and else<g ref="char:EOLhyphen"/>where) our Saviour himself Testifies: And that that Memorable and Glorious Vision of <hi>Isaiah,</hi> Chap. 6. <hi>I saw the Lord Sitting upon his Throne,</hi> &amp;c. had Rela<g ref="char:EOLhyphen"/>tion to our Saviour St. <hi>John</hi> affirms, <hi>Chap.</hi> 12.41. St. <hi>Jude</hi> tells us, <hi>v.</hi> 5. That
+<pb facs="tcp:187989:2"/>
+               <hi>the Lord having saved the People out of</hi> Aegypt, <hi>afterward Destroyed them that be<g ref="char:EOLhyphen"/>lieved not;</hi> and that this is spoken of the <hi>Lord Jesus Christ</hi> is plain, not only from 1 <hi>Cor</hi> 10.9. where St. <hi>Paul</hi> speaking of the Children of <hi>Israel</hi> in the Wil<g ref="char:EOLhyphen"/>derness, says, <hi>Neither let us tempt Christ as some of them also Tempted.</hi> &amp;c but also, that in the <hi>Vulgata,</hi> in the <hi>Aeth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opick</hi> Manuscript of <hi>Ludolphus</hi> in the <hi>Alexandrian</hi> MS in the King's Library at St. <hi>James's,</hi> beside two other Cele<g ref="char:EOLhyphen"/>brated Mss at <hi>Rome,</hi> it is read, <hi>That the Lord</hi> Jesus <hi>having saved the People out of Egypt,</hi> &amp;c. The Lord's day <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Rev.</hi> 1.10, is not the day Sanctify'd to the <hi>Jehovah,</hi> for that is <hi>Sabbatum,</hi> but it is the day of our Lord <hi>Jesus Christ</hi>'s Resurrection,<note place="margin">1 Cor. 11.20, 11. 1 Cor. 10.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> is <hi>his</hi> Supper, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> is <hi>his</hi> Table. And now I think I have pretty well pro<g ref="char:EOLhyphen"/>ved that<note n="*" place="margin">Phil. 2.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note>
+               <hi>every Tongue ought to confess that Jesus is Lord,</hi> yea that he is the King of Kings and Lord of Lords. Yet this Author having named him about eight and twenty times in his Book, has not vouchsafed him therein the Title of Lord or God.</p>
+            <p>He says in his Pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace that he is a Christian; according to the old Distinction of be<g ref="char:EOLhyphen"/>lieving, <hi>Credere Christum (fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>),</hi> and <hi>Credere in Christum,</hi> I believe he may be called a Believer of the former sort, that believes there was such a Man as he whom we call <hi>Christ.</hi> But in my Judgment he is hardly come up even to <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>codemus</hi>'s belief, that<note place="margin">John 3.2.</note>
+               <hi>Jesus was a Teacher come from God,</hi> or then he would not put such a doubtful Expression as, <hi>if the Gospel be Really the Word of God.</hi> But whatever he believes of him, it is plain he believes not Christ to have been the Author of what we call the Christian Religion, otherwise he would never have compared it all along with the <hi>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gia</hi> of <hi>Bacchus,</hi> in that contemptible manner that he does.</p>
+            <p>God has promised<note place="margin">Jam. 1.5.</note>
+               <hi>to give Wisdom to them that ask it;</hi> but there is reason to fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r this Author is among <hi>those that call not upon God.</hi> I think he cannot be supposed at least to say the Lords Prayer,<note place="margin">Joh. 5.23.</note> for our Saviour has told us that <hi>all Men should honour the Son even as they honour the Father,</hi> can he then say, <hi>Hallowed be thy Name,</hi> who makes a Coffee-house <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est of the Trinity.</p>
+            <p>I shall now proceed to shew you how he treats our Church and our Sacraments. In page 107 he says, that <hi>as far as any Church allows o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mysteries, it is so far Antichristian, and of Kin to the Scarlet Whore.</hi> If this becomes one of his Years, or Station, or Learning, or Experience, and be not Another <hi>Dogma</hi> arising <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom his Pride and Vanity let the World Judge.</p>
+            <p>Our Religion and Liturgy are made a part of our Laws; and our Rubrick and our Di<g ref="char:EOLhyphen"/>vine Service are made Act of Parliament, viz. 2<seg rend="sup">do</seg>
+               <hi>Elizabethae;</hi> notwithstanding which, and even without regard of our Laws or <hi>being afraid of the Power, (which is the Ordinance of God)</hi> and which he ought to obey for <hi>Conscience sake,</hi> he boa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts in defaming ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion and Sacraments. Our Church, upon the Foundation of the Holy Scriptures, has declared there are two Sacraments, that they are generally (that is,<note place="margin">Chur. Cat.</note> where they may be had) necessa<g ref="char:EOLhyphen"/>ry to Salvation, that they are ordained by Christ himself, and the means whereby we re<g ref="char:EOLhyphen"/>ceive Grace. But this Author defeats us of all these blessed Benefits at once, by calling them Ceremonies; which are but Rites, and generally of human Institution. But if we should say that they were of Divine Institution, as many of the Ceremonies of the Jews were, yet still as Ceremonies they are only Significative, and not Operative, as we believe, and many o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us know and have felt the holy Sacraments to be. Here also see another In<g ref="char:EOLhyphen"/>stance of the Pravity of his Will, in depriving all Mankind of this Means of Grace, and of the blessed Union thereby wrought between Christ and his Members.</p>
+            <p>There are no particular Ceremonies made necessary under the Gospel; but our Lord has made his Sacraments necessary. <hi>He that believeth and is baptized shall be saved.</hi>
+               <note place="margin">Mark. 16.16.</note> So that where Men come to the knowledge of Christ, it is not a belief alone tho never so Orthodox, no nor a good life joined to it, that will save them. For tho St. <hi>Peter</hi> declared to <hi>Corne<g ref="char:EOLhyphen"/>lius</hi> that in <hi>omn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gente,</hi> among all the Gentiles, he that fears God and works Righteousness is accepted of him, yet <hi>Cornelius</hi> must be baptized, tho he was a most devout and holy man and a Believer.<note place="margin">Act. 10.35</note> And as for the Lord's Supper the Evangelists and St. <hi>Paul</hi> assure us it was ordained by our Saviour; and that it is the means o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conveying Grace, our Saviour in the 6th Chap. of St. <hi>John</hi>'s Gospel declares at large, and St. <hi>Paul</hi> also, <hi>The Bread which we break is it not the Communication</hi> ( <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> ) <hi>of the Body of Christ.</hi>
+               <note place="margin">1 Cor. 10.17.</note> And tho this Au<g ref="char:EOLhyphen"/>thor labours so much to expose the solemnity of its celebration, we know that it was from the beginning the most essential part of the Christian Worship. We find the A<g ref="char:EOLhyphen"/>postles in <hi>Acts</hi> 3.1. went up to the Temple at the hour of Prayer, to pray with the Jews; but their breaking of Bread, this holy Communion, was <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in the houses,<note place="margin">Act. 2.46,</note> (not from house to house as it is improperly Translated) the Christian Congregations, of which it is probable every one of the Apostles held one in <hi>Jerusalem</hi> in a separate house, (for so we find when <hi>Peter</hi> got out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prison <hi>Acts</hi> 12.12. he went to the house of <hi>Mark,</hi> where a Con<g ref="char:EOLhyphen"/>gregation were together praying, and bids them to send to <hi>James</hi> and the rest of the A<g ref="char:EOLhyphen"/>postles, that by all their Congregations of Christian Believers there might a general Thanksgiving be offered to God for his deliverance; that <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> is so to be rendred, I could give many undeniable Proofs out of the New Testament.</p>
+            <pb facs="tcp:187989:3"/>
+            <p>But to return from this Digression, and to shew you further his Contempt of our Sacra<g ref="char:EOLhyphen"/>ments, he speaks of one of them in a manner that St. <hi>Paul</hi> never did, nor any good man beside. St. <hi>Paul</hi> calls it the <hi>Lords</hi> Supper, 1 <hi>Cor.</hi> 11.20. but this Author having Occasion four times to mention it, calls it only <hi>The Supper,</hi> as tho it were a Common Clubb or Collation.</p>
+            <p>And since our Sacraments are so ill handled by him, what can we expect for our Cere<g ref="char:EOLhyphen"/>monies? <hi>Your mock Anniversary Fasts,</hi> says he p. 158. and so he goes on to compare our Ceremonies with those of the Romish Church, and shews the latter to be full as proper and fignificative as ours. As I said before, I know not by what name to call him; he shews some Indignation at Popery, he ridicules the old Socinians with the Notion of a dei<g ref="char:EOLhyphen"/>fied Creature, and exposes us and indeed the Christian Religion it self at the same rate, whilest he makes all things, as he expresses it, to bow before the Majestick Light of Evi<g ref="char:EOLhyphen"/>dence, which according to him, is full Conviction of Reason, without making any Allow<g ref="char:EOLhyphen"/>ance for the difference of Mens Capacities. So that I think without trangressing the Rules of Charity, there remains only for him that of a Heretick, which he seems also with some Vanity to expect, and which I think I have in some measure proved, tho if so short a Letter would have admitted it, I could have added much to what I have said at the beginning upon that Subject.</p>
+            <p>I would not make up in railing what I want in Argument, but I think this is his Chara<g ref="char:EOLhyphen"/>cter in Scripture language, that he is one of those<note place="margin">Animal in Oposition to Spiri<g ref="char:EOLhyphen"/>tual.</note>
+               <hi>heady, high-minded, sensual, having not the Spirit,</hi> I will not add <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>haters of God,</hi> tho his behaviour to our Lord Jesus Christ shews little less. Unhappy man! to hate or despise infinite love, him that loved us, and washed us from our Sins by his blood, and sanctifieth us by his holy Spirit, that is now our High Priest in the presence of God, that knows and has compassion on our Infirmi<g ref="char:EOLhyphen"/>ties, that is long-suffering to us-ward, not willing that any should perish, but that all should come to repentance, and be saved. O poor wretch, thy Condemnation is of thy self; for <hi>if any manlove not the Lord Jesus,</hi>
+               <note place="margin">1 Cor. 16.22.</note>
+               <hi>let him be,</hi> yea he is, <hi>Anathema Maranatha,</hi> accursed, and to be condemned at the last judgment: for <hi>there is none other Name known among men, from,</hi> or by <hi>whom we can be saved.</hi> Not to love <hi>him,</hi> and consequently not to abide in <hi>his</hi> love, is curse enough, yea the very Essence of all Malediction. And now let those consider this, whether within doors or without; and whether the Vindication, or even the Excusing this Book, or the Author, or the ridiculing, or otherwise baffling, the just Prosecution and Censure of it and him, be not truly the denying of our Saviour before men, and whether such may not assuredly expect to be denied of him, in the presence of his Father, and the Holy Angels, and all the World at the last day. We shall all of us one day stand in need of a Saviour: O let us take heed to secure him our Friend, the neglect of whose Salvation we shall one day so sadly rue. For my part upon this occasion in my station, <hi>Liberavi ani<g ref="char:EOLhyphen"/>mam mean,</hi> let the Event be what it will, I remain, Dear Sir, Your most Humble Servant.</p>
+         </div>
+      </body>
+      <back>
+         <div type="notice_to_the_reader">
+            <head>Advertisement.</head>
+            <p>THere being several Greek Citations in the Author's Copy, which for want of that Character, could not be Printed; the Learned Reader is Desired to excuse the Writing thereof.</p>
+         </div>
+         <div type="colophon">
+            <p>DUBLIN, Printed in the Year, 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
